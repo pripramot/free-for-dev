@@ -183,12 +183,12 @@
 
 ## Source Code Repos
 
-  * [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
-  * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
-  * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
-  * [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
-  * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
-  * [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are many more, but we list the main ones here) provided are :
+  * [Bitbucket](https://bitbucket.org/) — Bitbucket — repos Git สาธารณะและส่วนตัวไม่จำกัดสำหรับผู้ใช้สูงสุด 5 รายด้วย Pipelines สำหรับ CI/CD
+  * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories  คลังฟอสซิลสาธารณะและส่วนตัวไม่จำกัด
+  * [codebasehq.com](https://www.codebasehq.com/) — หนึ่งโปรเจ็กต์ฟรีพร้อมพื้นที่ 100 MB และผู้ใช้สองคน
+  * [Codeberg.org](https://codeberg.org/) - repos Git สาธารณะและส่วนตัวไม่จำกัดสำหรับโครงการฟรีและโอเพ่นซอร์ส การโฮสต์เว็บไซต์แบบคงที่ด้วย [Codeberg Pages](https://codeberg.page/).
+  * [GitGud](https://gitgud.io) — พื้นที่เก็บข้อมูลส่วนตัวและสาธารณะไม่จำกัด ฟรีตลอดไป ขับเคลื่อนโดย GitLab และไพลิน ไม่ได้ระบุ CI/CD
+  * [GitHub](https://github.com/) — อันนี้คงไม่ต้องบอก! Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this, some other free services(there are many more, but we list the main ones here) provided are :
        - [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos)
        - [Codespaces](https://github.com/codespaces) - Development environments hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
        - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
