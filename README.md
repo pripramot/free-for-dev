@@ -113,22 +113,22 @@
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
-    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
-    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
-    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage, and 10000 requests per month
-    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
-    * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-     * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
-    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
-    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
-    * [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups
-    * [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
+    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB ขาออกต่อเดือนและการเรียกใช้ฟังก์ชัน 2M ต่อเดือน
+    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 ตัวชี้วัดที่กำหนดเองและการเตือน 10 รายการ
+    * [CodeBuild](https://aws.amazon.com/codebuild/) - เวลาในการสร้าง 100 นาทีต่อเดือน
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - ผู้ใช้ที่ใช้งานอยู่ 5 ราย พื้นที่เก็บข้อมูล 50GB และคำขอ 10,000 รายการต่อเดือน
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 ไปป์ไลน์ที่ใช้งานต่อเดือน
+    * [DynamoDB](https://aws.amazon.com/dynamodb/) - ฐานข้อมูล NoSQL ขนาด 25GB
+     * [EC2](https://aws.amazon.com/ec2/)  - 750 ชั่วโมงต่อเดือนของ t2.micro หรือ t3.micro(12mo) 100GB ส่งออกต่อเดือน
+    * [EBS](https://aws.amazon.com/ebs/) - 30GB ต่อเดือนสำหรับวัตถุประสงค์ทั่วไป (SSD) หรือแม่เหล็ก (12 เดือน)
+    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 ชั่วโมงต่อเดือน (12 เดือน)
+    * [RDS](https://aws.amazon.com/rds/) - 750 ชั่วโมงต่อเดือนสำหรับ db.t2.micro, db.t3.micro หรือ db.t4g.micro, 20GB สำหรับวัตถุประสงค์ทั่วไป (SSD) ที่เก็บข้อมูล, การสำรองข้อมูลที่เก็บข้อมูล 20GB
+    * [Glacier](https://aws.amazon.com/glacier) - พื้นที่จัดเก็บอ็อบเจ็กต์ระยะยาว 10GB
     * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
     * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
     * [SES](https://aws.amazon.com/ses/) - 3.000 messages per month (12mo)
     * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
-    * Full, detailed list - https://aws.amazon.com/free/
+    * รายการโดยละเอียดทั้งหมด - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
     * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
