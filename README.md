@@ -1,7 +1,7 @@
 
 # <p align="center">ฟรี! สำหรับนักพัฒนา รายละเอียดตามลิ้ง
 
-## <a href="#"><p align="center">![gg](./mail.png) </a>
+## <a href="#"><p align="center">![gg](./mail.png)</a>
 
 
 ---
