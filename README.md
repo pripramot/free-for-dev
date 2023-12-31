@@ -1,8 +1,14 @@
 
 # <p align="center">ฟรี! สำหรับนักพัฒนา รายละเอียดตามลิ้ง
 
-## <a href="#"><p align="center">![gg](./mail.png)</a>
 
+---
+
+<p align="center">
+  <a href="#">
+    <img src="./mail.png"
+  </a>
+</p>
 
 ---
 
